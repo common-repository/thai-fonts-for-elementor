@@ -1,0 +1,26 @@
+/*
+ Font Name: CS Prajad
+ Weights: 400, 700
+*/
+@font-face {
+  font-family: 'CS PraJad';
+  src: url('csprajad.eot');
+  src: url('csprajad.eot?#iefix') format('embedded-opentype'),
+       url('csprajad.woff2') format('woff2'),
+       url('csprajad.woff') format('woff');
+  font-weight: normal;
+  font-style: normal;
+  font-display: fallback;
+}
+
+
+@font-face {
+  font-family: 'CS PraJad';
+  src: url('csprajad-bold.eot');
+  src: url('csprajad-bold.eot?#iefix') format('embedded-opentype'),
+       url('csprajad-bold.woff2') format('woff2'),
+       url('csprajad-bold.woff') format('woff');
+  font-weight: bold;
+  font-style: normal;
+  font-display: fallback;
+}

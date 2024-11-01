@@ -1,0 +1,31 @@
+/*----------------- 
+Backend related CSS
+-----------------*/
+.tf-container {
+    margin: 50px;
+    padding: 30px;
+}
+
+.tf-button {
+    background-color: lightseagreen;
+    color: white;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 5px;
+    margin: 15px 0px 30px 0px;
+    cursor: pointer;
+}
+
+.tf-button:hover {
+    background-color:teal;
+    transition: 0.2s;
+}
+
+.tf-font-list li  {
+    background-color: #26b626;
+    display: inline;
+    margin: 5px;
+    padding: 5px;
+    color: white;
+    border-radius: 5px;
+}
